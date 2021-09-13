@@ -15,7 +15,7 @@
 <h2 align="center" id="#objetivo">Objetivo</h2>
     <p align="center">Reformulação da página introdutória a Educação Financeira</p>
 <br>
-   <a href="https://ojotav21.github.io/educacao-financeira-beesiness-tcc/" target="_blank"><img src="https://user-images.githubusercontent.com/60045344/133081069-865c34da-94cd-4307-b0e0-e5b4e6cac568.png"/ </a>
+   <a href="https://ojotav21.github.io/beesiness-educacao-financeira-tcc/" target="_blank"><img src="https://user-images.githubusercontent.com/60045344/133081069-865c34da-94cd-4307-b0e0-e5b4e6cac568.png"/ </a>
    
 <h2 align="center" id="#equipe-beesiness">Equipe Beesiness</h2>
    <p align="center" Eduardo Costa de Oliveira</p>
@@ -31,5 +31,5 @@
 </ul>
 <br>
 <h1  id="verOSite"align="center">
-<a href="https://ojotav21.github.io/educacao-financeira-beesiness-tcc/" target="_blank">Clique aqui para acessar!</a></h1>
+<a href="https://ojotav21.github.io/beesiness-educacao-financeira-tcc/" target="_blank">Clique aqui para acessar!</a></h1>
 <br>
